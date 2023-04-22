@@ -23,4 +23,4 @@ The script can be run on a domain by executing the command `./IsPhishable.sh exa
 # Python version
 - Dependencies
 - Version >= 3.7
-  - `pip3 install -r requirements`
+  - `pip3 install -r requirements.txt`
