@@ -24,3 +24,11 @@ The script can be run on a domain by executing the command `./IsPhishable.sh exa
 - Dependencies
 - Version >= 3.7
   - `pip3 install -r requirements.txt`
+
+# Docker version
+
+You can tryout the script directly with docker
+
+```bash
+docker run insecurecodes/is_phishable:1.0 google.com
+```
